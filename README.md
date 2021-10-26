@@ -13,7 +13,7 @@ Alguns dels meus companys són:
 *Manel Riba
 *Jose Roig
 
-Tasques per a realitzar:
+Tasques realitzades:
 - [x] Tasca 1
 - [ ] Tasca 2
 - [ ] Tasca 3
