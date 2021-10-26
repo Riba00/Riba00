@@ -14,8 +14,8 @@ Alguns dels meus companys són:
 *Jose Roig
 
 Tasques per a realitzar:
-[x] Tasca 1
-[ ] Tasca 2
-[ ] Tasca 3
+- [x] Tasca 1
+- [ ] Tasca 2
+- [ ] Tasca 3
 
-@acacha crec que aquest document ja esta complet.
+@github/support crec que aquest document ja esta complet.
