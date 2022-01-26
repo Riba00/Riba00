@@ -1,21 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jordi Riba</h1>
+<h3 align="center">Estudiant de 1r de DAM a l'IES de l'Ebre</h3>
 
-Sóc **Jordi Riba**
+- 🌱 I’m currently learning **programming, nets and cybersecurity.**
 
-Visc a Ulldecona i actualment, estic estudiant un superior d'informàtica a l'institut de l'Ebre.
+- 📫 How to reach me **jordiriba@iesebre.com**
 
-Aquest és el meu [perfil de Facebook](https://ca-es.facebook.com/people/Jordi-Riba/100004714369016/)
+- ⚡ Fact **Computer security is vital in today's world - 30,000 websites are being "hacked" every day across the globe.**
 
-M'agrada molt la natura :+1:
-![GitHub logo](https://images.unsplash.com/photo-1635183859185-e9f56405acea?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1006&q=80)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/riiba00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riiba00" height="30" width="40" /></a>
+<a href="https://instagram.com/acacha.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="acacha.org" height="30" width="40" /></a>
+</p>
 
-Alguns dels meus companys són:
-*Manel Riba
-*Jose Roig
-
-Tasques realitzades:
-- [x] Tasca 1
-- [ ] Tasca 2
-- [ ] Tasca 3
-
-@github/support crec que aquest document ja esta complet.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
