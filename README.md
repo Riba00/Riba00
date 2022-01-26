@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jordiriba@iesebre.com**
 
-- ⚡ Fact **Computer security is vital in today's world - 30,000 websites are being "hacked" every day across the globe.**
+- ⚡ Important fact: **Computer security is vital in today's world - 30,000 websites are being "hacked" every day across the globe.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
