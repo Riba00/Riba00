@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordi Riba</h1>
 <h3 align="center">1st year DAM student at IES de l'Ebre</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riba00" alt="riba00" /></a> </p>
 
 - 🌱 I’m currently learning **programming, nets and cybersecurity.**
 
